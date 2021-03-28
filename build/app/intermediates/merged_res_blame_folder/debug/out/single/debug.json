@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/mipmap-hdpi_bmi.png.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/mipmap-hdpi/bmi.png"
+    },
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/mipmap-mdpi_bmi.png.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/mipmap-mdpi/bmi.png"
+    },
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_bmi.png.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/mipmap-xxxhdpi/bmi.png"
+    },
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_bmi.png.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/mipmap-xxhdpi/bmi.png"
+    },
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/build/app/intermediates/res/merged/debug/mipmap-xhdpi_bmi.png.flat",
+        "source": "/goinfre/anel-bou/AndroidStudioProjects/bmi_calculator/android/app/src/main/res/mipmap-xhdpi/bmi.png"
+    }
+]
